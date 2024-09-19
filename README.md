@@ -66,6 +66,14 @@ https://v0.dev/chat
 
 
 
+### Firecrawl-爬虫
+
+https://www.firecrawl.dev/
+
+https://github.com/mendableai/firecrawl
+
+
+
 ## 4、三方整合
 
 ### 顶想云
@@ -116,7 +124,39 @@ https://pinia.web3doc.top/
 
 
 
-## 2、UI 组件库
+## 2、React 生态
+
+### React
+
+https://react.dev/
+
+https://github.com/facebook/react
+
+
+
+### React Native
+
+https://reactnative.cn/
+
+https://github.com/facebook/react-native
+
+
+
+## 3、流行库
+
+### axios-数据请求
+
+https://www.axios-http.cn/
+
+
+
+### mobx-状态管理
+
+https://mobx.js.org/README.html
+
+
+
+## 4、UI 组件库
 
 ### Ant Design
 
@@ -150,7 +190,7 @@ CSS 框架 Bulma 教程（[阮一峰](http://www.ruanyifeng.com/)）：http://ww
 
 
 
-## 3、小程序
+## 5、小程序
 
 ### uni-app
 
@@ -236,7 +276,7 @@ https://weexapp.com/zh/
 
 
 
-## 4、跨平台
+## 6、跨平台
 
 ### uni-app 移动端跨平台
 
