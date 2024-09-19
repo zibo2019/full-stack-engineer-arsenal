@@ -6,6 +6,80 @@
 
 # 〇、大模型
 
+## 1、通用对话
+
+### Kimi
+
+https://kimi.moonshot.cn/
+
+
+
+### 海螺AI
+
+https://hailuoai.com/
+
+
+
+### 通义千问
+
+https://tongyi.aliyun.com/
+
+
+
+### 文心一言
+
+https://tongyi.aliyun.com/
+
+
+
+### 讯飞星火
+
+https://xinghuo.xfyun.cn/
+
+
+
+## 2、任务编排
+
+### 扣子
+
+https://www.coze.cn/
+
+
+
+### Dify
+
+http://difyai.com/
+
+
+
+## 3、工具
+
+### Cursor-编程
+
+https://www.cursor.com/
+
+
+
+### V0-应用生成
+
+https://v0.dev/chat
+
+
+
+## 4、三方整合
+
+### 顶想云
+
+https://www.topthink.com/
+
+
+
+## 5、API调取
+
+### V3 API
+
+https://api.gpt.ge/
+
 
 
 # 一、前端
