@@ -310,6 +310,22 @@ https://v2.tauri.app/zh-cn/
 
 
 
+## 7、各种仓库
+
+### npm 镜像仓库
+
+https://www.npmmirror.com/
+
+
+
+## 8、超级工具
+
+### rollup.js-JavaScript 打包器
+
+https://cn.rollupjs.org/
+
+
+
 
 # 二、后端与编程语言
 
@@ -376,6 +392,20 @@ https://tool.oschina.net/
 ### Vue 模板转换器
 
 https://vue3js.cn/vue-template-explorer
+
+
+
+### ITOOLS工具箱
+
+http://itools.icjs.ink/
+
+
+
+### TypeScript 在线运行
+
+https://www.typescriptlang.org/play
+
+https://www.typescriptlang.org/zh/play/
 
 
 
