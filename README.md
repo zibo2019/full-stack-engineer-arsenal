@@ -156,6 +156,16 @@ https://mobx.js.org/README.html
 
 
 
+### vue-page-stack
+
+> 让Vue单页应用像原生App一样缓存UI页面
+
+https://vue-page-stack-example.onrender.com/#/
+
+https://github.com/hezhongfeng/vue-page-stack
+
+
+
 ## 4、UI 组件库
 
 ### Ant Design
@@ -198,81 +208,89 @@ https://uniapp.dcloud.net.cn/
 
 
 
-### App扩展规范 HTML5 Plus
+App扩展规范 HTML5 Plus
 
 http://www.html5plus.org/doc/h5p.html
 
 
 
-### 微信小程序
+微信小程序
 
 https://developers.weixin.qq.com/miniprogram/dev/framework/
 
 
 
-### 支付宝小程序
+支付宝小程序
 
 https://docs.alipay.com/mini/developer/getting-started
 
 
 
-### 百度小程序
+百度小程序
 
 https://smartprogram.baidu.com/docs/develop/tutorial/codedir/
 
 
 
-### 抖音小程序
+抖音小程序
 
 https://developer.open-douyin.com/docs/resource/zh-CN/mini-app/develop/component/introduction/basic-component
 
 
 
-### 飞书小程序
+飞书小程序
 
 https://open.feishu.cn/document/uYjL24iN/uUDNzUjL1QzM14SN0MTN
 
 
 
-### 钉钉小程序
+钉钉小程序
 
 https://developers.dingtalk.com/document/app/introduction-to-dingtalk-mini-programs
 
 
 
-### QQ小程序
+QQ小程序
 
 https://q.qq.com/wiki/develop/miniprogram/frame/
 
 
 
-### 快手小程序
+快手小程序
 
 https://mp.kuaishou.com/docs/develop/frame/config/conf_appjson.html
 
 
 
-### 京东小程序
+京东小程序
 
 https://mp-docs.jd.com/doc/forst/second/-1
 
 
 
-### 华为快应用
+华为快应用
 
 https://developer.huawei.com/consumer/cn/doc/development/quickApp-References/webview-component-view
 
 
 
-### 360小程序
+360小程序
 
 https://mp.360.cn/doc/miniprogram/dev/#/view
 
 
 
-### Weex
+Weex
 
 https://weexapp.com/zh/
+
+
+
+### luch-request
+
+> 基于Promise开发的uni-app跨平台请求库
+
+https://www.quanzhan.co/luch-request/
 
 
 
@@ -326,10 +344,28 @@ https://cn.rollupjs.org/
 
 
 
+## 9、开发框架
+
+### solid
+
+> 一个用于构建用户界面，简单高效、性能卓越的JavaScript库
+
+https://github.com/solidjs/solid
+
+https://www.solidjs.com/
+
+
+
 
 # 二、后端与编程语言
 
+## 99、国产编程语言
 
+### MoonBit-月兔
+
+> 比Rust快9倍，比GO快35倍
+
+https://www.moonbitlang.cn/
 
 
 
@@ -338,6 +374,14 @@ https://cn.rollupjs.org/
 
 
 # 四、运维与网络
+
+## 1、运维工具
+
+### 1Panel
+
+> 1Panel 是新一代的 Linux 服务器运维管理面板
+
+https://1panel.cn/
 
 
 
@@ -406,6 +450,12 @@ http://itools.icjs.ink/
 https://www.typescriptlang.org/play
 
 https://www.typescriptlang.org/zh/play/
+
+
+
+### 文本差异对比工具
+
+https://www.jq22.com/textDifference
 
 
 
