@@ -294,6 +294,12 @@ https://www.quanzhan.co/luch-request/
 
 
 
+### Uni Helper
+
+https://uni-helper.js.org/
+
+
+
 ## 6、跨平台
 
 ### uni-app 移动端跨平台
@@ -393,7 +399,7 @@ https://1panel.cn/
 
 
 
-# 七、工具
+# 七、工具、编辑器
 
 ## 1、自动化
 
@@ -453,9 +459,49 @@ https://www.typescriptlang.org/zh/play/
 
 
 
+### 在线运行HTML
+
+https://www.jq22.com/webide/
+
+
+
 ### 文本差异对比工具
 
 https://www.jq22.com/textDifference
+
+
+
+## 4、插件、扩展
+
+### 谷歌插件英雄榜
+
+https://zhaoolee.com/ChromeAppHeroes/#/
+
+
+
+## 5、编辑器
+
+### void
+
+>Cursor平替
+
+https://voideditor.com/
+
+
+
+### melty
+
+> AI代码编辑器，看起来又像是一个Cursor平替
+
+https://github.com/meltylabs/melty
+
+
+
+## 6、GIF
+
+### GifCam
+
+https://blog.bahraniapps.com/gifcam/
 
 
 
